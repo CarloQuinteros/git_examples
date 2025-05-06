@@ -1,0 +1,1 @@
+alert("Inter to the final");
